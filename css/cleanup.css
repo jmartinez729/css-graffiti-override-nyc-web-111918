@@ -5,7 +5,9 @@
 }
 
 #wall #tag-2 {
-  display: none;
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
 }
 
 #wall .tag-3 {
