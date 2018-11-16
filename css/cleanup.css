@@ -4,12 +4,12 @@
   display: none;
 }
 
-/*#wall > #tag-2 {*/
-/*    background: url(../images/tag-2.png) no-repeat;*/
-/*    z-index: 6;*/
-/*    display: none;*/
-/*}*/
-
-#wall .tag-3 {
-  display: none;
+#wall > #tag-2 {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
 }
+
+/*#wall .tag-3 {*/
+/*  display: none;*/
+/*}*/
