@@ -4,8 +4,8 @@
   display: none;
 }
 
-head body #wall #id {
-    display: none;
+#wall #id {
+  display: none;
 }
 
 /*#wall .tag-3 {*/
